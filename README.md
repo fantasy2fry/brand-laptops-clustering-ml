@@ -5,3 +5,7 @@
 ### Project team:
 - [Norbert Frydrysiak](https://github.com/fantasy2fry)
 - [Jan Cwalina](https://github.com/Janusz99bis)
+
+### Validators team:
+- [Natalia Choszczyk](https://github.com/nataliachoszczyk)
+- [Bartek Borycki](https://github.com/Bartekb3)
