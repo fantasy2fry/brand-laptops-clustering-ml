@@ -3,8 +3,8 @@
 
 
 ### Project team:
-- [Norbert Frydrysiak](https://github.com/fantasy2fry)
-- [Jan Cwalina](https://github.com/Janusz99bis)
+- [Norbert Maksymilian Frydrysiak](https://github.com/fantasy2fry)
+- [Jan Paweł Cwalina](https://github.com/Janusz99bis)
 
 ### Validators team:
 - [Natalia Choszczyk](https://github.com/nataliachoszczyk)
